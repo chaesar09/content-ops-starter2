@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Camping sambil Wisata di Mata Air Ciburial
     items:
       - type: FeaturedItem
         title: 500k
