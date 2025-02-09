@@ -64,10 +64,19 @@ sections:
       - type: FeaturedItem
         title: 350k
         subtitle: Tenda Kapasitas 3
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          **Include :**
+
+          *   Matras
+
+          *   Sleeping Bag
+
+          *   Free Listrik
+
+          *   Free Toilet
+
+          *   Free Berenang
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
