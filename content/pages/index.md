@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 350k
-        subtitle: Numbers Done
+        subtitle: Tenda Kapasitas 3
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
