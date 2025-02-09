@@ -62,7 +62,7 @@ sections:
     subtitle: Camping sambil Wisata di Mata Air Ciburial
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 350k
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
